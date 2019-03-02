@@ -1,10 +1,10 @@
 # vue-laravel-crud
 
 Vue 2.5 + Laravel 5.5 + Axios CRUD example app
+	
+> I took the following as base project [https://github.com/anthonygore/vue-laravel-crud](https://github.com/anthonygore/vue-laravel-crud)
 
-> Inspiration from [https://github.com/herusdianto/laravel-vue-crud](https://github.com/herusdianto/laravel-vue-crud)
-
-<img src="demo.gif" width="416">
+<img src="typicalScreen.png" width="416">
 
 ### Installation
 
